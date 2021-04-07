@@ -1,0 +1,15 @@
+﻿C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(106,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(161,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'P4tch3r' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling a_handle.asm...
+a_handle.asm(4): error A2013: .MODEL must precede this directive
+a_handle.asm(6): error A2034: must be in segment block : a_handle
+a_handle.asm(9): error A2034: must be in segment block
+a_handle.asm(10): error A2034: must be in segment block
+a_handle.asm(11): error A2034: must be in segment block
+a_handle.asm(12): error A2034: must be in segment block
+a_handle.asm(13): error A2034: must be in segment block
+a_handle.asm(14): error A2034: must be in segment block
+a_handle.asm(16): error A2034: must be in segment block
+a_handle.asm(18): fatal error A1010: unmatched block nesting : a_handle
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\a_handle.obj" /W3 /errorReport:prompt  /Taa_handle.asm" exited with code 1.

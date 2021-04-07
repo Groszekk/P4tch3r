@@ -1,0 +1,16 @@
+﻿C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(107,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(172,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building 'P4tch3r' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  P4tch3r.c
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.h(4,9): warning C4391: '__int64 __readmsr(int)': incorrect return type for intrinsic function, expected 'unsigned __int64'
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.c(98,1): warning C4133: 'initializing': incompatible types - from 'void (__cdecl *)(void)' to 'ULONGLONG (__cdecl *)()'
+  P4tch3r.vcxproj -> C:\Users\Dev\source\repos\P4tch3r\x64\Debug\P4tch3r.sys
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(107,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(172,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Dev\source\repos\P4tch3r\x64\Debug\P4tch3r.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(107,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Users\Dev\source\repos\P4tch3r\P4tch3r\P4tch3r.vcxproj(172,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" cannot be imported again. It was already imported at "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
